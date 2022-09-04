@@ -1,5 +1,5 @@
 # Funky.js
-Funky.js is a lightweight router and tool for creating websites.
+Funky.js is a lightweight router for websites.
 
 # How to use
 Simply add `<script src="/path/to/scripts/funkyjs/index.js"></script>` to your code. Works out of the box, works in client-side.
